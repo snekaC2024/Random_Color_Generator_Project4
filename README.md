@@ -1,6 +1,5 @@
 # 🌈 Day 4 - Random Color Generator
 
----
 
 ## 📸 Preview
 
