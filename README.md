@@ -29,7 +29,7 @@ A simple yet fun JavaScript project that generates a random background color and
 
 ## 🎥 Demo Video
 
-Watch the full walkthrough on YouTube 👉 [Watch Now]([https://youtube.com/@snekaC2024](https://youtu.be/RY73ijDqh7o))
+Watch the full walkthrough on YouTube 👉 [Watch Now](https://youtu.be/RY73ijDqh7o)
 
 ---
 
